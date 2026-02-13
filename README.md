@@ -16,15 +16,17 @@
 
 ## Technical Explanations
 
-### Order Service (Node.js)
+### What challenges did you encounter when configuring environment variables in the GitHub Actions workflow?
+
 
 [Your explanation here - 1-2 paragraphs]
 
-### Product Service (Rust)
+### How does deploying microservices on Azure Web App Service differ from running them locally?
 
 [Your explanation here - 1-2 paragraphs]
 
-### Store Front (Vue.js)
+### Why is it important to use environment variables for configurations in a cloud environment?
+
 
 [Your explanation here - 1-2 paragraphs]
 
