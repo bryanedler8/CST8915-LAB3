@@ -1,16 +1,24 @@
 # CST8915-LAB3
-# CST8915 Lab 1: Algonquin Pet Store on Azure VM
 
-**Student Name**: [Your Name]
-**Student ID**: [Your Student ID]
+
+**Student Name**: Bryan Edler
+**Student ID**: 041016930
 **Course**: CST8915 Full-stack Cloud-native Development
 **Semester**: Winter 2026
+
+---
+**product-service-lab3-python:** https://github.com/bryanedler8/product-service-lab3-python  
+
+**store-front-lab2:** https://github.com/bryanedler8/store-front-lab2  
+
+**order-service-lab2:** https://github.com/bryanedler8/order-service-lab2
+
 
 ---
 
 ## Demo Video
 
-🎥 [Watch Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+🎥 [Watch Demo Video](https://youtu.be/ZD5x5q5G5HM)
 
 ---
 
@@ -22,8 +30,7 @@
 When setting up environment variables in GitHub Actions, several practical difficulties were observed.
 Firstly, managing sensitive information such as API keys and database passwords required the use of GitHub Secrets. Ensuring that these secrets were correctly referenced and not accidentally printed in logs demanded careful attention.
 Secondly, handling different values for development, staging, and production environments within the same workflow was complex without duplicating code. This was addressed using GitHub Environments and variable contexts.
-Additionally, syntax errors were common, particularly when distinguishing between vars, secrets, and the env context. Another issue involved passing non-string values, such as numbers or boolean flags, into scripts or containers, which sometimes caused unexpected behaviour.
-Finally, when using matrix builds for multiple microservices, dynamically assigning the correct variables to each job increased the complexity of the workflow.
+Additionally, syntax errors were common, particularly when distinguishing between vars, secrets, and the env context. 
 
 
 ### How does deploying microservices on Azure Web App Service differ from running them locally?
