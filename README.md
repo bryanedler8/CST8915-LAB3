@@ -1,10 +1,10 @@
 # CST8915-LAB3
 
 
-**Student Name**: Bryan Edler
-**Student ID**: 041016930
-**Course**: CST8915 Full-stack Cloud-native Development
-**Semester**: Winter 2026
+**Student Name**: Bryan Edler  
+**Student ID**: 041016930  
+**Course**: CST8915 Full-stack Cloud-native Development  
+**Semester**: Winter 2026  
 
 ---
 **product-service-lab3-python:** https://github.com/bryanedler8/product-service-lab3-python  
